@@ -25,7 +25,7 @@ We care deeply about how we work, the code we write, and the products we produce
 
 Learning and Mentoring
 ---------------------------------
-We all have room to improve. No of us have so mastered the craft that we cannot benefit from learning new techniques, technologies, best practices or processes. It is our combined duty to share what we have mastered both inside and outside our team.
+We all have room to improve. None of us have so mastered the craft that we cannot benefit from learning new techniques, technologies, best practices or processes. It is our combined duty to share what we have mastered both inside and outside our team.
 
 
 Agility
