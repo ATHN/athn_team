@@ -3,7 +3,6 @@ ATHN Development Team Values
 
 Team
 ---------------------------------
-
 We check our egos at the door. Our codebase is owned by all of us, from the best features, and most elegant implementations, to the worst bugs, and biggest omegamess. We use `git blame` to discover where understanding might be lacking or to discuss better solutions.
 
 Pairing
@@ -22,15 +21,12 @@ Craftsmanship
 ---------------------------------
 We care deeply about how we work, the code we write, and the products we produce. We are constantly striving to become better at our craft. Our passion leads us to have strong opinions loosely held. We value constructive debate and deep discussions about the benefits and tradeoffs of each decision we make as pairs and as a team.
 
-
 Learning and Mentoring
 ---------------------------------
 We all have room to improve. None of us have so mastered the craft that we cannot benefit from learning new techniques, technologies, best practices or processes. It is our combined duty to share what we have mastered both inside and outside our team.
 
-
 Agility
 ---------------------------------
-
 We adhere strongly, but not dogmatically, to the tenants of the Agile Manifesto and Twelve Principles of Agile Software. We adapt our process to minimize ceremony, and maximize communication, efficiency and happiness.
 
 Diversity
