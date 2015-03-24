@@ -54,3 +54,7 @@ We write code because it is fun and we enjoy working with each other. We also re
 Pragmatic Idealism
 ---------------------------------
 We are pragmatic idealists. We believe in continually evolving towards a set of ideals and dream of all the possibilities they can bring. However, we are also pragmatic and willing to make concessions to those ideals when they conflict with current business needs. Ideals define our long term strategies. Pragmatism defines our day-to-day tactics. Our ideals and business needs are constantly evolving and we adjust accordingly.
+
+Courage
+---------------------------------
+We have the courage to design/code for today; not tomorrow. We have the courage to throw away code that is obsolete. We have the courage to persist through complex problems. We have the courage to make architectural corrections. We have the courage to be transparent. We have the courage to deliver complete, quality work. We have the courage to never discard essential practices. We have the courage to simplify the code at every turn. We have the courage to take credit only for complete work.
