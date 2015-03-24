@@ -50,3 +50,7 @@ We adhere strongly, but not dogmatically, to the tenants of the Agile Manifesto 
 Fun
 ---------------------------------
 We write code because it is fun and we enjoy working with each other. We also recognize that all code and no play makes for grumpy devs. We provide opportunities for the team to have a good time both during and after work.
+
+Pragmatic Idealism
+---------------------------------
+We are pragmatic idealists. We believe in continually evolving towards a set of ideals and dream of all the possibilities they can bring. However, we are also pragmatic and willing to make concessions to those ideals when they conflict with current business needs. Ideals define our long term strategies. Pragmatism defines our day-to-day tactics. Our ideals and business needs are constantly evolving and we adjust accordingly.
